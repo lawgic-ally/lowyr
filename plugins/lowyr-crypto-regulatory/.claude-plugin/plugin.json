@@ -1,0 +1,22 @@
+{
+  "name": "lowyr-crypto-regulatory",
+  "version": "1.0.0",
+  "description": "EU/UK crypto-asset regulatory toolkit: MiCA token classification, white paper review, CASP perimeter mapping, crypto promotions review, token distribution analysis, consultation responses and multi-jurisdiction regulatory research.",
+  "author": {
+    "name": "Bastien Choquez"
+  },
+  "homepage": "https://github.com/lawgic-ally/lowyr",
+  "repository": "https://github.com/lawgic-ally/lowyr",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "mica",
+    "crypto",
+    "regulatory",
+    "casp",
+    "white-paper",
+    "financial-promotions",
+    "airdrops",
+    "esma",
+    "fca"
+  ]
+}

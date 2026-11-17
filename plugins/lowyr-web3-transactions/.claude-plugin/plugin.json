@@ -1,0 +1,20 @@
+{
+  "name": "lowyr-web3-transactions",
+  "version": "1.0.0",
+  "description": "Commercial and corporate toolkit for blockchain businesses: web3 contract drafting with a token-aware clause library, market-making agreement review against market-abuse rules, and group/jurisdiction structuring.",
+  "author": {
+    "name": "Bastien Choquez"
+  },
+  "homepage": "https://github.com/lawgic-ally/lowyr",
+  "repository": "https://github.com/lawgic-ally/lowyr",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "web3",
+    "contracts",
+    "market-making",
+    "structuring",
+    "mou",
+    "partnerships",
+    "market-abuse"
+  ]
+}

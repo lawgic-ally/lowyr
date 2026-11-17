@@ -1,0 +1,20 @@
+{
+  "name": "lowyr-protocol-legal",
+  "version": "1.0.0",
+  "description": "Where law meets code: map smart-contract control surfaces to legal exposure (decentralisation, custody, disclosure, liability), plus a dual legal/technical Web3 expert for fundraising instruments, DAO structures, US securities analysis and security audits.",
+  "author": {
+    "name": "Bastien Choquez"
+  },
+  "homepage": "https://github.com/lawgic-ally/lowyr",
+  "repository": "https://github.com/lawgic-ally/lowyr",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "smart-contracts",
+    "defi",
+    "decentralisation",
+    "dao",
+    "saft",
+    "solidity",
+    "bridges"
+  ]
+}

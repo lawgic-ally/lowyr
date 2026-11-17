@@ -1,0 +1,92 @@
+{
+  "name": "lowyr",
+  "owner": {
+    "name": "Bastien Choquez"
+  },
+  "metadata": {
+    "description": "Legal AI skills for crypto-asset regulation, web3 transactions, protocol law and legal operations.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "lowyr-crypto-regulatory",
+      "source": "./plugins/lowyr-crypto-regulatory",
+      "description": "EU/UK crypto-asset regulatory toolkit: MiCA token classification, white paper review, CASP perimeter mapping, crypto promotions review, token distribution analysis, consultation responses and multi-jurisdiction regulatory research.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bastien Choquez"
+      },
+      "category": "legal",
+      "keywords": [
+        "mica",
+        "crypto",
+        "regulatory",
+        "casp",
+        "white-paper",
+        "financial-promotions",
+        "airdrops",
+        "esma",
+        "fca"
+      ],
+      "homepage": "https://github.com/lawgic-ally/lowyr"
+    },
+    {
+      "name": "lowyr-web3-transactions",
+      "source": "./plugins/lowyr-web3-transactions",
+      "description": "Commercial and corporate toolkit for blockchain businesses: web3 contract drafting with a token-aware clause library, market-making agreement review against market-abuse rules, and group/jurisdiction structuring.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bastien Choquez"
+      },
+      "category": "legal",
+      "keywords": [
+        "web3",
+        "contracts",
+        "market-making",
+        "structuring",
+        "mou",
+        "partnerships",
+        "market-abuse"
+      ],
+      "homepage": "https://github.com/lawgic-ally/lowyr"
+    },
+    {
+      "name": "lowyr-protocol-legal",
+      "source": "./plugins/lowyr-protocol-legal",
+      "description": "Where law meets code: map smart-contract control surfaces to legal exposure (decentralisation, custody, disclosure, liability), plus a dual legal/technical Web3 expert for fundraising instruments, DAO structures, US securities analysis and security audits.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bastien Choquez"
+      },
+      "category": "legal",
+      "keywords": [
+        "smart-contracts",
+        "defi",
+        "decentralisation",
+        "dao",
+        "saft",
+        "solidity",
+        "bridges"
+      ],
+      "homepage": "https://github.com/lawgic-ally/lowyr"
+    },
+    {
+      "name": "lowyr-legal-ops",
+      "source": "./plugins/lowyr-legal-ops",
+      "description": "Legal operations for in-house teams: AI governance (EU AI Act-aligned code of ethics, acceptable use, vendor due diligence) and risk-based legal intake triage that routes work to the right skill.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bastien Choquez"
+      },
+      "category": "legal",
+      "keywords": [
+        "legal-ops",
+        "ai-act",
+        "ai-governance",
+        "intake",
+        "triage"
+      ],
+      "homepage": "https://github.com/lawgic-ally/lowyr"
+    }
+  ]
+}
